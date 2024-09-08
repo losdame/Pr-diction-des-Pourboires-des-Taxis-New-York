@@ -12,7 +12,7 @@ Selon [salary.com](https://www.salary.com/), le salaire moyen d'un chauffeur de 
 
 Les données de la Commission des Taxis et Limousines de NYC proviennent de [NYC.gov](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). Les données comprenaient environ 23 000 trajets uniques et 18 caractéristiques. Les fonctionnalités incluaient des informations sur la durée du trajet et la destination, le fournisseur utilisé, les informations sur les péages et le type de paiement. Le graphique à barres ci-dessous montre la répartition entre les clients généreux (>20 %) et les clients non-généreux dans l'ensemble de données.
 
-![image.png](attachment:image.png)
+![data_undestand.png](attachment:image.png)
 
 En lien avec cela, une caractéristique a été conçue pour représenter si un trajet a été effectué pendant les heures de pointe ou non. Plusieurs colonnes redondantes ont été supprimées et reformattées dans le bon type de données.
 
